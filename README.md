@@ -1,5 +1,8 @@
 # Pesticide
 
+This is just for backup.
+Cause it has been removed from chrome stroe.
+
 Kill your CSS layout bugs.  *Without* 2000 clicks in Chrome Dev Tools.
 
 ## WTF is this?
